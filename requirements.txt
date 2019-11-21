@@ -21,7 +21,7 @@ docker-pycreds==0.2.1
 entrypoints==0.2.3
 enum34==1.1.6
 fastzbarlight==0.0.14
-Flask==0.12.2
+Flask==1.0
 funcsigs==1.0.2
 functools32==3.2.3.post2
 future==0.16.0
